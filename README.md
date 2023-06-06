@@ -6,7 +6,7 @@
 </p>
 
 
-- **🔥 Web Developer**
+- **I’m currently learning Web Development and other programming languages**
 
 - **I put mostly of my focus on [PHP](https://php.net)**
 
