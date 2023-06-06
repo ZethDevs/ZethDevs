@@ -22,4 +22,17 @@
 
   <img src="https://komarev.com/ghpvc/?username=ZethDevs &color=blue&style=flat-square&label=Profile+Views" alt="Profile Views" /> <img src="https://img.shields.io/github/followers/ZethDevs?label=Followers" style=" float:left, margin-right:10px" alt="Followers" />
 
-</p>
+</p>##
+##### Languages that i've been use
+
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php)
+![Ruby](https://img.shields.io/badge/-Ruby-000000?style=flat&logo=ruby)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
+![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
+![Kotlin](https://img.shields.io/badge/-Kotlin-000000?style=flat&logo=kotlin)
+![Dart](https://img.shields.io/badge/-Dart-000000?style=flat&logo=dart)
+![Go](https://img.shields.io/badge/-Go-000000?style=flat&logo=go)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
+##
