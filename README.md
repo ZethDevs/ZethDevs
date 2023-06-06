@@ -46,23 +46,15 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel-222222?style=flat&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/-Netlify-222222?style=flat&logo=netlify&logoColor=white)
-![Koyeb](https://img.shields.io/badge/-Koyeb-222222?style=flat&logo=koyeb&logoColor=white)
-![Oracle](https://img.shields.io/badge/-Oracle-222222?style=flat&logo=oracle&logoColor=white)
-![AlwaysData](https://img.shields.io/badge/-AlwaysData-222222?style=flat&logo=alwaysdata&logoColor=white)
+![Replit](https://img.shields.io/badge/-Replit-222222?style=flat&logo=replit&logoColor=white)
 
-![Linux](https://img.shields.io/badge/OS-Linux-blue?&logo=Linux)
-![Ubuntu](https://img.shields.io/badge/OS-Ubuntu-blue?&logo=Ubuntu)
-![Debian](https://img.shields.io/badge/OS-Debian-blue?&logo=Debian)
-![Alpine](https://img.shields.io/badge/OS-Alpine-blue?&logo=AlpineLinux)
+
 ![Windows](https://img.shields.io/badge/OS-Windows-blue?&logo=Windows)
 ![Android](https://img.shields.io/badge/OS-Android-blue?&logo=Android)
 
 ![MySQL](https://img.shields.io/badge/MySQL-white?&logo=MySQL)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-white?&logo=PostgreSQL)
-![Redis](https://img.shields.io/badge/Redis-white?&logo=Redis)
-![MongoDB](https://img.shields.io/badge/MongoDB-white?&logo=MongoDB)
-![MariaDB](https://img.shields.io/badge/MariaDB-white?&logo=MariaDB&logoColor=black)
-![ElasticSearch](https://img.shields.io/badge/Elastic-white?&logo=ElasticSearch&logoColor=black)
+
+
 
 ##
 ## 👦 **About me**:
@@ -96,7 +88,7 @@
 
 - **Buy me a Ko-fi:**
 
-    <a href='https://trakteer.id/lutfifarid' target='_blank'><img height='25' style='border:0px;height:36px;' src='https://az743702.vo.msecnd.net/cdn/kofi1.png?v=a&w=144' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+    <a href='https://ko-fi.com/lutfifarid#checkoutModal' target='_blank'><img height='25' style='border:0px;height:36px;' src='https://az743702.vo.msecnd.net/cdn/kofi1.png?v=a&w=144' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
 
 
