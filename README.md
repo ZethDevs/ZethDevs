@@ -63,7 +63,7 @@
 
 
 
-![Gmail Badge](https://img.shields.io/badge/-lutfi.faridd@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lutfi.farid@zethdevs.tech)
+![Gmail Badge](https://img.shields.io/badge/-lutfi.farid@zethdevs.tech-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lutfi.farid@zethdevs.tech)
 
 
 
