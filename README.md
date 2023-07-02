@@ -72,9 +72,8 @@
 
 
 
-![GitHub followers](https://img.shields.io/github/followers/ZethDevs?color=aqua&label=Followers&style=for-the-badge)
-
-![GitHub User's stars](https://img.shields.io/github/stars/ZethDevs?affiliations=OWNER&color=aqua&style=for-the-badge)
+![github stats](https://github-readme-stats.vercel.app/api?username=ZethDevs&show_icons=true&theme=chartreuse-dark)
+![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=ZethDevs&layout=compact&theme=chartreuse-dark)
 
 
 ## <img src="https://i.redd.it/nwu0335ccoz41.png" width="25px">**Donations & Support**
@@ -93,4 +92,5 @@
  - Selasa, 6 June 2023 07:12:32 GMT
 
 ---------------------
+
 
