@@ -57,7 +57,7 @@
 
 [![Spotify](https://img.shields.io/badge/-Spotify-%232c3e50?style=flat-square&logo=spotify)](https://spotify.com)
 
-[![PhotoShop](https://img.shields.io/badge/-Facebook-%23007ACC?style=flat-square&logo=facebook)](https://www.facebook.com.)
+[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/collection/tracks)
 
 **Contact Me:**
 
