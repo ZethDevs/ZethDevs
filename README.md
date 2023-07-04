@@ -73,6 +73,7 @@
 
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=ZethDevs&show_icons=true&theme=chartreuse-dark)
+![](https://github-readme-streak-stats.herokuapp.com/?user=ZethDevs&theme=solarized-dark&hide_border=false)
 ![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=ZethDevs&layout=compact&theme=chartreuse-dark)
 
 
