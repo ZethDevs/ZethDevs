@@ -1,7 +1,7 @@
 <h1 align="center">Welcome To My Profile | Hi! 👋 I'm ZethDevs</h1>
 <p align="center">
 
-  <a href="https://t.me/zYxDx"><img src="http://readme-typing-svg.herokuapp.com?color=1C71FA&center=true&vCenter=true&multiline=false&lines=A+Noob+Coder+From+Indonesia.;PHP%2C+HTML%2C+JavaScript%2C+Python.;Thank+For+Visiting+My+Profile." alt="Lutfi Farid"></a>
+  <a href="https://zethdevs.tech/"><img src="http://readme-typing-svg.herokuapp.com?color=1C71FA&center=true&vCenter=true&multiline=false&lines=A+Noob+Coder+From+Indonesia.;PHP%2C+HTML%2C+JavaScript%2C+Python.;Thank+For+Visiting+My+Profile." alt="Lutfi Farid"></a>
 
 </p>
 
