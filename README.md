@@ -8,9 +8,7 @@
 
 - **I’m currently learning Web Development and other programming languages**
 
-- **I put mostly of my focus on [PHP](https://php.net)**
-
-- **My Everyday usage is based on: `.html` `.php` `.xml`**
+- **My Everyday usage is based on: `html` `Python` `Javascript`**
 
 <p align="center">
 
